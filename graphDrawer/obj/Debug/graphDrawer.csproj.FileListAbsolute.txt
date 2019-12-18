@@ -1,0 +1,10 @@
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\bin\Debug\graphDrawer.exe.config
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\bin\Debug\graphDrawer.exe
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\bin\Debug\graphDrawer.pdb
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.csprojResolveAssemblyReference.cache
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.Form1.resources
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.Properties.Resources.resources
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.csproj.GenerateResource.Cache
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.csproj.CoreCompileInputs.cache
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.exe
+C:\Users\yuval\source\repos\graphDrawer\graphDrawer\obj\Debug\graphDrawer.pdb
